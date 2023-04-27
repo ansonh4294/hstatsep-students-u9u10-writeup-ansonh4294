@@ -1,1 +1,6 @@
-# hstatsep-students-u9u10-writeup-ansonh4294
+# Process Writeup
+
+## Name: Anson
+## Course: APCSA(Java)
+## Period: 6
+## Concept: Boolean Expressions, If Statement, and Iteration
