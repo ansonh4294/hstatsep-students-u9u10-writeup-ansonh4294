@@ -84,9 +84,12 @@ public class U10_L2_Activity_One
 ```
 The task look simple enough reverse the word. At first I was using a for loops to do this but I relize that didnt work on project stem since they wanted us to use recursion which I kinda sturggle, but finding out that we need to find the first letter and printed out and than printed the next letter buy removing the first letter. So that why we have ``word.length() == 0`` becuase the first letter in a ``array`` is always a 0. I am going to be honest I completely gave up coding assignment trying to brain stroming and thinking about the code and how can I write it out. At the end I just gave up it was probably the only one assignment I didnt finshed.
 
+### Takeaways
+My take always from this lesson was that recursion take a lot of practices to understand and it really hard I been trying my best to understand it better but I am still stuggling in it. I was kinda Happy to hear that there not going to ask much question on the recursion cause I feel like I will get all of them wrong.
 
 
-
+### Goals
+ My goals right now is get a better understanding of recursion and trying to get a high score on the ap exam if I can get 3  I will be more than happy because I know that I am not getting a 4 or a 5 on this exam. The FRQ is really hard too.
 
 
 
